@@ -1,0 +1,24 @@
+
+@import "_variables";
+
+header {
+
+    h3 {
+   
+
+    color: #ffffff;
+
+    padding: $segundo-encabezado;
+    
+    }
+
+    h3 {
+   
+        @extend .fuentes;
+    
+        padding-bottom: 35px;
+    
+    }
+
+
+}
